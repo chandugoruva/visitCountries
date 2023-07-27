@@ -1,0 +1,33 @@
+.visited-country-div {
+  background-color: #1f1f2f;
+  min-height: 230px;
+  max-width: 380px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+.image {
+  height: 140px;
+}
+.name {
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 10px;
+}
+.country-button {
+  background-color: transparent;
+  font-family: 'Roboto';
+  border: 2px #94a3b8 solid;
+  border-radius: 6px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.li {
+  list-style-type: none;
+}

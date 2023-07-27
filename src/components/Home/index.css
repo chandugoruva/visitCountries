@@ -1,0 +1,26 @@
+.main-bg {
+  background-color: #161624;
+  /* height: 100vh; */
+  padding: 20px;
+}
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  align-items: center;
+  flex-wrap: wrap;
+}
+.no-visited-heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
